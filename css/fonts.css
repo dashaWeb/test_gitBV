@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'RammettoOne';
+    src: url(../fonts/RammettoOne-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'LatoR';
+    src: url(../fonts/lato-regular-webfont.woff);
+}
+@font-face {
+    font-family: 'LatoB';
+    src: url(../fonts/lato-bold-webfont.woff);
+}
+@font-face {
+    font-family: 'quicksand';
+    src: url(../fonts/quicksand-bold-webfont.woff);
+}
+@font-face {
+    font-family: 'magra';
+    src: url(../fonts/magra-bold-webfont.woff);
+}
+@font-face {
+    font-family: 'roboto';
+    src: url(../fonts/roboto-regular-webfont.woff);
+}
