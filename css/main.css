@@ -1,0 +1,156 @@
+@import 'fonts.css';
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 970px;
+    margin: 0 auto;
+}
+
+.bg-header {
+    background-color: rgba(176, 163, 169, .2);
+    height: 120px;
+    /* position: fixed;
+    top: 0px;
+    bottom: 0px;
+    width: 100%;
+    z-index: 1; */
+}
+
+.banner {
+    position: relative;
+    margin-top: 120px;
+}
+
+.banner img {
+    width: 100%;
+    display: block;
+}
+
+.circles {
+    width: 156px;
+    height: 150px;
+    position: absolute;
+    right: 130px;
+    bottom: 80px;
+}
+
+.circle-one {
+    border-radius: 50%;
+    background-color: rgb(200, 193, 13);
+    width: 143px;
+    height: 143px;
+    position: absolute;
+    top: 7px;
+}
+
+.circle-two {
+    border-radius: 50%;
+    background-color: rgba(202, 13, 111, .8);
+    width: 143px;
+    height: 143px;
+    position: absolute;
+    left: 13px;
+
+}
+
+.circle-two i {
+    position: absolute;
+    font-family: 'quicksand';
+    font-size: 24px;
+    color: #fff;
+    text-decoration: none;
+    font-style: normal;
+    text-transform: uppercase;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    margin-left: -52px;
+    margin-top: -28px;
+}
+
+.bg-product {
+    background-color: #eae7e8;
+    border-top: solid #eae7e8;
+    border-bottom: solid #eae7e8;
+}
+
+.product img {
+    float: right;
+}
+
+.product h3 {
+    text-transform: uppercase;
+    font-size: 18px;
+    color: #7a6666;
+    font-family: 'LatoB';
+    margin-top: 50px;
+}
+
+.product h4 {
+    font-size: 30px;
+    text-transform: capitalize;
+    color: #e32a62;
+    font-family: 'magra';
+    margin-top: 20px;
+}
+
+.product p {
+    font-family: 'roboto';
+    font-size: 14px;
+    color: #7a6666;
+    margin-top: 35px;
+    margin-bottom: 70px;
+    line-height: 24px;
+}
+
+.bg-icon{
+    background-color: #c8c10d;
+    padding: 35px 0;
+}
+.bg-icon ul{
+    list-style-type: none;
+}
+.bg-icon li{
+    display: inline-block;
+    width: 24.5%;
+    text-align: center;
+}
+.bg-icon a{
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: 'LatoR';
+    font-size: 20px;
+}
+.bg-icon img{
+    margin-bottom: 20px;
+}
+
+.bg-footer{
+    background-color: #cb3362;
+    padding: 60px 0;
+}
+.bg-footer ul{
+    list-style-type: none;
+    text-align: center;
+}
+.bg-footer li{
+    display: inline-block;
+    margin:0 12.5px;
+}
+.bg-footer a{
+    color: #fff;
+    font-size: 30px;
+}
+.bg-footer p{
+    color: #fff;
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'roboto';
+    text-transform: capitalize;
+}
