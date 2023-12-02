@@ -1,0 +1,65 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-Chat-Icon1 {
+    width: 51px;
+    height: 30px;
+    background-position: -5px -5px;
+}
+
+.sprite-Elemen1 {
+    width: 79px;
+    height: 61px;
+    background-position: -5px -45px;
+}
+
+.sprite-Element2 {
+    width: 73px;
+    height: 66px;
+    background-position: -5px -116px;
+}
+
+.sprite-Element3 {
+    width: 61px;
+    height: 63px;
+    background-position: -5px -192px;
+}
+
+.sprite-Element4 {
+    width: 44px;
+    height: 58px;
+    background-position: -5px -265px;
+}
+
+.sprite-Login-icon1 {
+    width: 41px;
+    height: 25px;
+    background-position: -5px -333px;
+}
+
+.sprite-Vector-Smart-Object {
+    width: 16px;
+    height: 35px;
+    background-position: -5px -368px;
+}
+
+.sprite-Vector-Smart-Object1 {
+    width: 36px;
+    height: 29px;
+    background-position: -5px -413px;
+}
+
+.sprite-Vector-Smart-Object2 {
+    width: 27px;
+    height: 35px;
+    background-position: -5px -452px;
+}
+
+.sprite-Works6 {
+    width: 68px;
+    height: 70px;
+    background-position: -5px -497px;
+}
